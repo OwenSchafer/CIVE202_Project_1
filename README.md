@@ -1,2 +1,8 @@
-# CIVE202_Project_1
-Project #1 in Wissam Kontar's CIVE 202 class at UNL, Spring 2026
+# CIVE 202 - Project 1: UNMC Air Quality Analysis
+Analysis of AirPurple air quality data from around Nebraska, ostensibly for University of Nebraska Medical Center's Water, Climate, and Health Group
+## Repository Structure
+This repository includes the following files:
+- (CIVE202_Spring 2026_OS_Project1_Lab3.ipynb)
+- File 2
+- File3
+- File4
